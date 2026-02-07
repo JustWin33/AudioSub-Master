@@ -1,0 +1,5 @@
+{
+  "name": "AudioSub Master",
+  "description": "Professional audio transcription and subtitle generation tool powered by Gemini.",
+  "requestFramePermissions": []
+}
